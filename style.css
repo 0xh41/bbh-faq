@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #292a2d;
+    color: #a9a9a7;
+}
+
+.title{
+    background-color: #252627;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.title span{
+    color: #16a085;
+}
+
+/* .container{
+} */
+
+.question, .answer{
+    margin: 10px;
+}
+.question i{
+    color: #5d6499;
+}
+
+.answer i{
+    color: #16a085;
+}
